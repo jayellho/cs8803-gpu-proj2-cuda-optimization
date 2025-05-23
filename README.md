@@ -1,4 +1,4 @@
-# CS-8803 GPU Hardware and Software Project 2.
+# CS-8803 GPU Hardware and Software Project 2
 > CUDA kernel code for parallel sorting of integers using the bitonic sort algorithm, optimized for performance on NVIDIA GPUs.
 
 ## About
@@ -11,7 +11,7 @@ This project is for Georgia Tech's on-campus CS-8803 GPU Hardware and Software c
 4. `report.pdf` - Report covering thought process, steps taken and techniques used throughout the project.
 5. `grade.py` - Grading script used to evaluate CUDA kernel performance.
 
-## Optimization techniques explored/ used.
+## Optimization techniques explored/ used
 NOTE: Please read `report.pdf` for detailed coverage of techniques and steps taken.
 - Memory pinning.
 - CUDA Streams.
