@@ -26,6 +26,7 @@ NOTE: Please read `report.pdf` for detailed coverage of techniques and steps tak
 
 ## Results
 Speedup of 114 times over CPU using NVIDIA L40s GPU on array of size 10 million, with achieved occupancy of 93.38% and throughput of 701.9 million elements per second (MEPS).
+![image](https://github.com/user-attachments/assets/9673af1f-626f-469f-9393-33e870422154)
 
 ## Getting Started
 ### Prerequisites
@@ -63,5 +64,5 @@ ncu ./<program name> # stats for each kernel on stdout
 ncu -o profile ./<program name> # output file for NSight Compute GUI
 ncu --query-metrics --query-metrics-mode all # lists all existing metrics.
 ncu --metrics [metric_1],[metric_2],... ./<program name> # check individual metrics.
-
+```
 
