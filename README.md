@@ -21,8 +21,6 @@ NOTE: Please read `report.pdf` for detailed coverage of techniques and steps tak
 - Bitshifting.
 - Shared memory and multiple CUDA kernels.
 - CPU and GPU interleaving/ overlap.
-- Modal with detailed view of properties of selected resource.
-- Search widget with search/filter by region/type.
 
 ## Results
 Speedup of 114 times over CPU using NVIDIA L40s GPU on array of size 10 million, with achieved occupancy of 93.38% and throughput of 701.9 million elements per second (MEPS).
