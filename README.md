@@ -1,5 +1,5 @@
 # CS-8803 GPU Hardware and Software Project 2.
-> CUDA kernel code for parallel sorting of integers using the bitonic sort algorithm, and is optimized for performance on NVIDIA GPUs.
+> CUDA kernel code for parallel sorting of integers using the bitonic sort algorithm, optimized for performance on NVIDIA GPUs.
 
 ## About
 This project is for Georgia Tech's on-campus CS-8803 GPU Hardware and Software course as taken in Fall 2024.
